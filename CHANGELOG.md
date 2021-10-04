@@ -1,4 +1,26 @@
 
+<a name="v1.6.0"></a>
+## v1.6.0 (2021-09-07)
+
+### Features
+* **data-source/cloudsigma_drive:** add new data source for drives
+
+
+<a name="v1.5.1"></a>
+## v1.5.1 (2021-08-03)
+
+### Maintaining
+* update terraform-plugin-sdk to v2.7.0
+
+
+<a name="v1.5.0"></a>
+## v1.5.0 (2021-08-03)
+
+### Maintaining
+* update go version to 1.16 in github worklflows
+* add support for darwin_arm64 systems
+
+
 <a name="v1.4.2"></a>
 ## v1.4.2 (2021-05-24)
 
