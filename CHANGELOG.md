@@ -1,6 +1,78 @@
 
+<a name="v1.10.1"></a>
+## v1.10.1 (2022-03-31)
+
+### Bug Fixes
+* **resource/cloudsigma_server:** ensure that meta attribute will be updated when changing
+
+
+<a name="v1.10.0"></a>
+## v1.10.0 (2022-03-28)
+
+### Features
+* **resource/cloudsigma_server:** add meta attribute
+
+
+<a name="v1.9.1"></a>
+## v1.9.1 (2022-02-06)
+
+### Bug Fixes
+* **server/cloudsigma_server:** change enclave_page_caches attribute type to int
+
+### Maintaining
+* update cloudsigma-sdk-go to v0.13.0
+
+
+<a name="v1.9.0"></a>
+## v1.9.0 (2022-01-28)
+
+### Features
+* **server/cloudsigma_server:** add enclave_page_caches attribute
+
+### Maintaining
+* update cloudsigma-sdk-go to v0.12.0
+
+
+<a name="v1.8.1"></a>
+## v1.8.1 (2022-01-25)
+
+### Bug Fixes
+* propagate missing base_url option
+
+
+<a name="v1.8.0"></a>
+## v1.8.0 (2022-01-25)
+
+### Features
+* add base_url configuration option
+
+### Maintaining
+* update cloudsigma-sdk-go to v0.11.0
+
+
+<a name="v1.7.2"></a>
+## v1.7.2 (2022-01-17)
+
+### Documentation
+* update registry documentation for token based authentication
+
+
+<a name="v1.7.1"></a>
+## v1.7.1 (2022-01-17)
+
+### Documentation
+* **resource/cloudsigma_server:** add missing documentation for ssh keys attribute
+
+### Features
+* add client authorization via bearer token
+
+### Maintaining
+* update go version to 1.17 in github worklflows
+* update terraform-plugin-sdk to v2.9.0
+
+
 <a name="v1.6.0"></a>
-## v1.6.0 (2021-09-07)
+## v1.6.0 (2021-09-09)
 
 ### Features
 * **data-source/cloudsigma_drive:** add new data source for drives
